@@ -1,0 +1,22 @@
+body {background-color: black;}
+
+h1,p,h2,font{color: white;}
+
+.menu li{display: inline;
+		padding: 25px;
+		}
+
+.menu a{text-decoration: none; 
+		padding: 8px;
+		color: #ccc;
+		border: 1px;
+		border-radius: 30px;}
+
+.menu {text-align: center;}
+
+.menu a:hover{background-color: #888;}
+
+table {color: white;}
+td,th{padding: 15px; text-align: center;}
+
+#img {border:2px solid red; border-radius: 300px; margin-left: 100px}
